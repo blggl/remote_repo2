@@ -1,0 +1,6 @@
+111111111
+
+repositorys为本地仓库
+repo1为本地工作目录
+生成.git -Git init
+隐藏显示-repo1查看（将隐藏打勾）
